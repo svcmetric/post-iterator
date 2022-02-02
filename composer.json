@@ -5,8 +5,8 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Chris Marslender",
-            "email": "chrismarslender@gmail.com"
+            "name": "Surjit Vala",
+            "email": "surjit.vala@bbgi.com"
         }
     ],
     "autoload": {
@@ -16,7 +16,7 @@
     },
     "require": {
         "composer/installers": "~1.0",
-        "cmmarslender/timer": "^1.0"
+        "svcmetric/timer": "^1.0"
     },
     "license": "MIT",
     "require-dev": {
