@@ -1,5 +1,5 @@
 {
-    "name": "cmmarslender/post-iterator",
+    "name": "svcmetric/post-iterator",
     "description": "WPDB Based Post Iterator for WordPress",
     "type": "wordpress-library",
     "minimum-stability": "dev",
